@@ -8,6 +8,8 @@ public class GitSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitSampleApplication.class, args);
+		
+		//hgyufgyu
 	}
 
 }
